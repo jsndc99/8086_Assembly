@@ -1,3 +1,3 @@
-# MP
+# 8086_Assembly
 Microprocessor (8086) programs
-Contains programs and x86 practical examinations for computer engineering (university of mumbai)
+Contains programs for 8086 microprocessor in assembly.
